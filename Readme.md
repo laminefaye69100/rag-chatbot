@@ -193,8 +193,6 @@ Quelques questions possibles :
 # 👨‍💻 Auteur
 
 **Amadou Lamine Faye**  
-Master 2 – Intelligence Artificielle  
-Université Lyon 1  
 
 GitHub : https://github.com/laminefaye69100
 
