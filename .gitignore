@@ -1,0 +1,23 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Données et index
+data/
+chroma/
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# OS / éditeurs
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Streamlit
+.streamlit/
