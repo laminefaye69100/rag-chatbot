@@ -203,10 +203,6 @@ GitHub : https://github.com/laminefaye69100
 Projet disponible uniquement pour usage personnel et académique.  
 Revente ou redistribution interdite sans autorisation.
 
----
-
-Si tu veux une version encore plus professionnelle (badges, images, schémas UML du pipeline, GIF du chatbot, etc.), je peux la générer ! 🚀
-
 
 ---
 ## 📝 Notes supplémentaires
